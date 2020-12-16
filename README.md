@@ -1,4 +1,4 @@
-# HeitoNet
+# HeitoNet (Big Data Class 1st Project)
 
 ## Design Diagram
 
